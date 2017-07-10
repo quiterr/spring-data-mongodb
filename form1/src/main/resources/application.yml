@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      host: 47.92.81.244
+      port: 27017
+      database: form13
